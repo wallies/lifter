@@ -1354,9 +1354,9 @@ dependencies = [
 
 [[package]]
 name = "strfmt"
-version = "0.1.6"
+version = "0.2.3"
 source = "registry+https://github.com/rust-lang/crates.io-index"
-checksum = "b278b244ef7aa5852b277f52dd0c6cac3a109919e1f6d699adde63251227a30f"
+checksum = "b73de159e5e71c4c7579ea3041d3e765f46790555790c24489195554210f1fb4"
 
 [[package]]
 name = "string_cache"
